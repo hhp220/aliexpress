@@ -1,0 +1,10 @@
+1:空白处右键，点击git commit
+2:在message处输入提交的内容
+3:点击commit
+4:点击push
+5：点击OK
+
+如何更新：
+1：空白处右键，git sync
+2: 点击pull
+2：选择master 点击pull
